@@ -3,7 +3,7 @@
 
 # Create a new form
 $form = New-Object Windows.Forms.Form
-$form.Text = "PowerShell-like Menu"
+$form.Text = "menu test"
 $form.Size = New-Object Drawing.Size(400, 300)
 $form.BackColor = [System.Drawing.Color]::FromArgb(25, 61, 131)  # Use the RGB color 25, 61, 131
 
