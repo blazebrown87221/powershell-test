@@ -6,5 +6,7 @@
 ---
 [!FAQ]
 ---
-am i going to make a CMD version? yes i am 
+am i going to make a CMD version? 
+
+yes i am 
 
