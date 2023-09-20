@@ -5,5 +5,5 @@
 ")
 
 
->[?FAQ]
+> [?FAQ]
 > yes im in the process of makeing a CMD cmd verison
